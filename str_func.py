@@ -1,2 +1,3 @@
 def upper_str(string: str):
-    return string.upper()
+    """Takes a string as input and returns it with all capital letters"""
+    return string.upper() 
